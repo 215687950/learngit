@@ -2,3 +2,4 @@ init
 create dev
 create feature1
 add merge
+add merge Fast-forward
